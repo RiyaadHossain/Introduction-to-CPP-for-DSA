@@ -11,6 +11,7 @@ int main()
 
     cout << endl;
 
+    // More Convenient
     for (auto st : str)
         cout << st << " ";
 
