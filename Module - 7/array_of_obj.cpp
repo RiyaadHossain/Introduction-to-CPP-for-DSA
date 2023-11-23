@@ -37,6 +37,7 @@ int main()
     cin >> t;
 
     Student arr[3];
+    Student *dynamicArr = new Student[3]; // Dynamic array of objects
 
     while (i != t)
     {

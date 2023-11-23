@@ -1,2 +1,0 @@
-
-            cout << freq[i].value;
